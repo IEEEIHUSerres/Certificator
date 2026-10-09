@@ -29,7 +29,7 @@
 
         <maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
 
-        <itextpdf.version>5.5.13.1</itextpdf.version>
+        <itextpdf.version>5.5.13.3</itextpdf.version>
 
         <vavr.version>0.10.0</vavr.version>
         <lombok.version>1.18.8</lombok.version>
