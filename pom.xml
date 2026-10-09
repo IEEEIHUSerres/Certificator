@@ -31,7 +31,7 @@
 
         <itextpdf.version>5.5.13.3</itextpdf.version>
 
-        <vavr.version>0.10.0</vavr.version>
+        <vavr.version>1.0.1</vavr.version>
         <lombok.version>1.18.8</lombok.version>
         <junit.version>4.13.1</junit.version>
         <forms_rt.version>7.0.3</forms_rt.version>
